@@ -1,6 +1,2 @@
 # hello-world
-Hello-World
-=====
-TESTING
-=====
-MORE TESTING
+JZ in da house
